@@ -102,3 +102,5 @@ The tests demonstrate:
 - **OWASP**: Second Order SQL Injection
 - **SQL Server Docs**: [QUOTENAME](https://learn.microsoft.com/en-us/sql/t-sql/functions/quotename-transact-sql)
 - **SQL Server Docs**: [sp_executesql](https://learn.microsoft.com/en-us/sql/relational-databases/system-stored-procedures/sp-executesql-transact-sql)
+
+## Random updates for a new commmit
